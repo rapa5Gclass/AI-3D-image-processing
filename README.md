@@ -1,3 +1,3 @@
 # AI-3D-image-processing<br>
-- pls. see github.com/rkjin/BJNet<br>
-- pls. see github.com/rkjin/MiDaS<br>
+- <a href="https://github.com/rkjin/BJNet">Pls. visit StresDNN</a> <br>
+- <a href="https://github.com/rkjin/MiDas">Pls. visit monoDNN</a> <br>
